@@ -1,8 +1,8 @@
 <h1 align="center">
-Hi, I'm Daniel Zheng! <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/MPxg9U887PS0B8XT4J" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hello-hi-greetings-MPxg9U887PS0B8XT4J">via GIPHY</a></p>
+Hi, I'm Daniel Zheng! 👋
 </h1>
 <br/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Software+Engineering;Food+Enthusiastic;Love+to+Learn+New+Skills)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Software+Engineering;Food+Enthusiastic;Love+to+Learn+New+Skills)](https://git.io/typing-svg)
 
 ## 🛠️ My Favorite Tools
 
