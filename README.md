@@ -1,7 +1,9 @@
 <h1 align="center">
 Hi, I'm Daniel Zheng! 👋
 </h1>
-<br/>
+
+##
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Software+Engineering;Food+Enthusiastic;Love+to+Learn+New+Skills(https://git.io/typing-svg)
 
 ## 🛠️ My Favorite Tools
