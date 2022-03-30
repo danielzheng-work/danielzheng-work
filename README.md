@@ -3,7 +3,7 @@ Hi, I'm Daniel Zheng! 👋
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Software+Engineering;Food+Enthusiastic;Love+to+Learn+New+Skills&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Software+Engineer;Food+Enthusiastic;Love+to+Learn+New+Skills&center=true&width=380&height=45"></a>
 </p>
 <hr/>
 
