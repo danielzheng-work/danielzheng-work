@@ -2,10 +2,7 @@
 Hi, I'm Daniel Zheng! 👋
 </h1>
 <br/>
-
-## About me
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Software+Engineering;Food+Enthusiastic;Love+to+Learn+New+Skills)(https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Software+Engineering;Food+Enthusiastic;Love+to+Learn+New+Skills(https://git.io/typing-svg)
 
 ## 🛠️ My Favorite Tools
 
